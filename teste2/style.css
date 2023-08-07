@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(87, 10, 48);
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+}
+
+select {
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-color: rgb(230, 178, 204);
+}
